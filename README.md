@@ -2,7 +2,7 @@
 
 > A Neo4j knowledge graph + Streamlit dashboard built on real production data from a Swedish steel fabrication company. Replaces a 46-sheet Excel workbook with a queryable graph database and an interactive visual dashboard.
 
-**Live Demo →** [DASHBOARD_URL.txt](./DASHBOARD_URL.txt)
+**Live Demo →** [https://jf5vhmhr9fwrymrjj2lnkk.streamlit.app/](./DASHBOARD_URL.txt)
 
 ---
 
